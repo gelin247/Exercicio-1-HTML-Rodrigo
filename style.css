@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+
+p{
+    border-bottom: 6px solid red;
+}
+
+th, td{
+    border: 3px solid red;
+    padding: 4px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+body{
+    background-image: url('../../images/R.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 50%;
+}
+
+html{
+    height: 100%;
+}
